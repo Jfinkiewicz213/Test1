@@ -1,2 +1,2 @@
 # Test1
-Test for Atom IDE
+This is a Test for Atom IDE
